@@ -10,9 +10,9 @@ How does it work? Well, you just type what you want, and -- BOOM -- it happens. 
 quite the whole story. You have to know what to type: which commands are possible in the current
 _context_, what arguments are acceptable for those commands. Essentially, you have to speak the
 application's language. You may say "whoa, that sounds like quite a learning curve to climb!" Not at
-all. The system will help you _a lot,_ providing automatic type-ahead-style suggestions and
+all. The system will help you _a lot,_ providing automatic typeahead-style suggestions and
 previews. It also learns your usage patterns, and short-circuits the most common actions for you.
 
-## Vocabulary
+# Vocabulary
 
 TBD

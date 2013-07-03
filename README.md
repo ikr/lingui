@@ -15,4 +15,8 @@ previews. It also learns your usage patterns, and short-circuits the most common
 
 # Vocabulary
 
-TBD
+## Command
+
+## Arguments
+
+## Context
